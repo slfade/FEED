@@ -135,6 +135,150 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-15T02:39:11Z"
 			}
+		},
+		{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "GLOBO ANAPOLIS FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "https://tugatvprovider.xyz:443/play/lBUkvZ1sJ38ZfJ9MraHENqFU68x6Lqv27FRGBtQFSjEsVy9W4cQRQuB7ADZCsTMo",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "GLOBO RIBEIRÃO PRETO FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "http://cdn11.cc:80/live/epg/epg/122760.ts",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "GLOBO SUL DE MINAS FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "http://cdn11.cc:80/live/epg/epg/109984.ts",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "GLOBO RJ FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "http://cdn11.cc:80/live/epg/epg/352.ts",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "GLOBO SP FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "http://cdn11.cc:80/live/epg/epg/168251.ts",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "GLOBO MINAS FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "http://cdn11.cc:80/live/epg/epg/362.ts",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
 		}
 	],
 	"SERIES": [{
