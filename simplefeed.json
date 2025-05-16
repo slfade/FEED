@@ -657,9 +657,9 @@
 		}
 	],
 	
-	"FILMES": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+	"FILMES DE FICÇÃO": [{
+			"longDescription": "Em um futuro próximo, onde a tecnologia de drones se tornou onipresente, acompanhamos um conflito crescente que se desenrola nos céus. A linha entre vigilância, segurança e ameaça se torna tênue à medida que diferentes facções disputam o controle do espaço aéreo através de sofisticados veículos não tripulados.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/2721c629e957acd9c2fba99f10126279adb89df595e6e1d496f379366d6a0af2.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -669,21 +669,21 @@
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"title": "BATALHA DOS DRONES",
 			"content": {
 				"duration": 713,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
-					"quality": "HD"
+					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644641.mp4",
+					"quality": "FHD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
+			"longDescription": "Acompanhamos a jornada de uma princesa amazona, criada em uma ilha paradisíaca isolada do mundo dos homens. Sua vida protegida sofre uma reviravolta com a chegada inesperada de um piloto, que lhe apresenta um conflito global devastador que se estende para além de seu lar.",
+			"thumbnail": "https://musicart.xboxlive.com/7/346b5100-0000-0000-0000-000000000002/504/image.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -693,21 +693,21 @@
 			],
 			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
 			"shortDescription": "Demonstrates the Roku automated channel testing software.",
-			"title": "Automated channel testing",
+			"title": "MULHER MARAVILHA",
 			"content": {
 				"duration": 713,
 				"videos": [{
-					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
-					"quality": "HD"
+					"videoType": "mp4",
+					"url": "https://content.jwplatform.com/videos/wFu38ZMN-F3o6hEvP.mp4?/movie/JPFILMES",
+					"quality": "FHD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:10Z"
 			}
 		},
 		{
-			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+			"longDescription": "Em um futuro distante, a humanidade abandonou a Terra e colonizou outros planetas. Acompanhamos uma viagem espacial de pai e filho que sofre um acidente, forçando-os a aterrissar em um planeta perigoso e desconhecido – a própria Terra, agora transformada e hostil.",
+			"thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXDlDfT-ndwKIVhBNDbVdIqiEwbOS48w5D5mpQLrpHIl5o77Km6gkjstxzg8ULXQ8Uz_pFFX8IVRbFqIDz3GwAnbjVThQyEMXJyePIGq0828CR_X9W-nGvFRS7E-jzjInxbEvtBzZdXQY/s1600/After-Earth.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -717,13 +717,37 @@
 			],
 			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
 			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
-			"title": "Managing user access",
+			"title": "DEPOIS DA TERRA",
 			"content": {
 				"duration": 576,
 				"videos": [{
-					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
-					"quality": "HD"
+					"videoType": "mp4",
+					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644568.mp4",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Em um futuro desolado por uma erupção solar catastrófica, um engenheiro de robótica, um dos poucos sobreviventes, vive em um bunker subterrâneo. Diante de sua própria mortalidade, ele decide construir um robô com o propósito de proteger seu amado cachorro quando ele não estiver mais por perto.",
+			"thumbnail": "https://www.acmodasi.in/amdb/images/movie/w/p/finch-2021-32317.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"title": "FINCH",
+			"content": {
+				"duration": 576,
+				"videos": [{
+					"videoType": "mp4",
+					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644719.mp4",
+					"quality": "FHD"
 				}],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
