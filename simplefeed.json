@@ -283,10 +283,10 @@
 	],
 	"SERIES": [{
 			"id": "series_1_tips",
-			"title": "THE LAST OF US",
+			"title": "MOTHERLAND",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "The Last of Us se passa em um mundo pós-apocalíptico devastado por uma infecção fúngica que transforma humanos em criaturas violentas. A história acompanha Joel, um contrabandista endurecido, encarregado de escoltar Ellie, uma adolescente que pode ser a chave para a cura da humanidade, através de uma América do Norte perigosa e desolada. É uma jornada intensa de sobrevivência, companheirismo e escolhas morais difíceis.",
-			"thumbnail": "https://evilhazard.com.br/wp-content/uploads/2025/04/1000281750.jpg",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/fb8736b07bcd4fcf221c125c6d097123f803569e8c77ba0db99942d78f9fd1e5.jpg",
 			"genres": [
 				"educational"
 			],
@@ -297,13 +297,13 @@
 					"title": "Season 1",
 					"episodes": [{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "Apocalipse",
+							"title": "INICIO",
 							"episodeNumber": 1,
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
 									"videoType": "mp4",
-									"url": "http://127.0.0.1:11470/4111c3ac2b8e62f602dd3c5ee1c22d9ed854c0bc/The.Last.of.Us.S01E01.1080p.FULL.WEB-DL.DUAL.5.1.mp4",
+									"url": "http://185.194.204.102:80/series/Formigatv/14042025/12114882.",
 									"quality": "FHD"
 								}],
 								"duration": 187,
@@ -320,7 +320,7 @@
 								],
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.showmetech.com.br/wp-content/uploads//2023/01/last-of-us-review-episode-1-1920x1024.jpg",
+							"thumbnail": "https://c4.wallpaperflare.com/wallpaper/342/1009/236/memory-sword-homeland-mamaev-kurgan-wallpaper-preview.jpg",
 							"shortDescription": "Stream music on your Roku device",
 							"releaseDate": "2020-01-02",
 							"longDescription": "Stream music on your Roku device",
