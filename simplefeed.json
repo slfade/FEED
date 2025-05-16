@@ -111,6 +111,32 @@
 			}
 		}
 	],
+	"CANAIS GLOBO": [
+	{
+			"longDescription": "A TV Globo é a maior rede de televisão aberta do Brasil, oferecendo uma programação diversificada de notícias, entretenimento e esportes para milhões de brasileiros em todo o país, tanto na TV quanto no streaming Globoplay.",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "Globo FHD",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "m3u8",
+					"url": "http://xxip25.top:8080/live/104446609/104446609/164943.ts",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		}
+	],
 	"SERIES": [{
 			"id": "series_1_tips",
 			"title": "THE LAST OF US",
@@ -747,6 +773,78 @@
 				"videos": [{
 					"videoType": "mp4",
 					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644719.mp4",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Uma brilhante roboticista que trabalha em uma empresa de brinquedos cria uma avançada boneca de inteligência artificial, projetada para ser a companheira ideal de crianças. Após perder seus pais, uma jovem garota se torna o foco do primeiro protótipo dessa criação inovadora.",
+			"thumbnail": "https://wallpapercave.com/wp/wp11889861.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"title": "MEGAN",
+			"content": {
+				"duration": 576,
+				"videos": [{
+					"videoType": "mp4",
+					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644676.mp4",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Uma mulher tenta reconstruir sua vida após escapar de um relacionamento abusivo com um cientista brilhante e controlador. No entanto, seu passado a assombra de maneiras aterrorizantes quando ela começa a suspeitar que ele ainda está presente, embora invisível.",
+			"thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87tNuAePrkOVow3fW0PbGdMv5kd1m7D4wtu2kqQNsSRdrzAegWcEjq543XBg83yAknP-cMWGkwrz4uc-JfZdxt3cs5m1d7ZPLpXRtm8UwW5F2h74U_DhQDT9jb5xq8oB_QJL926Qwuzo/s1600/o+homem+invis%25C3%25ADvel.png",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"title": "O HOMEM INVISIVEL",
+			"content": {
+				"duration": 576,
+				"videos": [{
+					"videoType": "mp4",
+					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644686.mp4",
+					"quality": "FHD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Uma adolescente se muda com sua irmã mais nova para uma nova cidade e precisa se adaptar à casa do novo namorado de sua mãe e a uma nova escola. Nesse ambiente desconhecido, ela começa a ter sonhos vívidos e misteriosos que parecem estranhamente conectados com alguns de seus colegas de classe.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/5dd1a5f6a533a44458d87b97e8129a83a2fd2c4aeec277932a284b048151cefd.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"title": "SILVER O LIVRO DOS SONHOS",
+			"content": {
+				"duration": 576,
+				"videos": [{
+					"videoType": "mp4",
+					"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/644628.mp4",
 					"quality": "FHD"
 				}],
 				"language": "en-us",
