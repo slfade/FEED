@@ -2,7 +2,7 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"CANAIS ABERTOS:": [
+	"shortFormVideos": [
 	{
 			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
@@ -111,7 +111,7 @@
 			}
 		}
 	],
-	"SERIES:": [{
+	"series": [{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
@@ -656,7 +656,7 @@
 			]
 		}
 	],
-	"FILMES:": [{
+	"movies": [{
 			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
 			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
 			"releaseDate": "2020-01-20",
