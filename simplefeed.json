@@ -127,12 +127,12 @@
 					"title": "Season 1",
 					"episodes": [{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "How to listen to music",
+							"title": "Apocalipse",
 							"episodeNumber": 1,
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
-									"videoType": "HLS",
+									"videoType": "mp4",
 									"url": "http://127.0.0.1:11470/41702171d270a7898912809f6aad8f66d57e1661/1",
 									"quality": "FHD"
 								}],
