@@ -133,7 +133,7 @@
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
 									"videoType": "mp4",
-									"url": "https://drive.google.com/file/d/1qQF_xnxMX1qCX9jmuCl_T-viXMm-bi3y/view",
+									"url": "blob:https://youfiles.herokuapp.com/b5243d3e-c0fa-40f9-9e6f-98c956c6d55f",
 									"quality": "FHD"
 								}],
 								"duration": 187,
