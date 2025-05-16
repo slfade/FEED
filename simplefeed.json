@@ -132,7 +132,7 @@
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
 								"videos": [{
-									"videoType": "mp4",
+									"videoType": "mkv",
 									"url": "http://127.0.0.1:11470/41702171d270a7898912809f6aad8f66d57e1661/1",
 									"quality": "FHD"
 								}],
