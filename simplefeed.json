@@ -3,7 +3,7 @@
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"CANAIS": [
-         //SBT
+         
 		{
 			"id": "series_1_tips",
 			"title": "SBT",
@@ -295,7 +295,7 @@
 			"title": "SPORTV 4K",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "Canais da tv SPORTV",
-			"thumbnail": "https://assets.goal.com/images/v3/blteffed3ec281cc517/sportv-logo-8.png?auto=webp&format=pjpg&width=3840&quality=60",
+			"thumbnail": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sportv-br.png?raw=true",
 			"genres": [
 				"educational"
 			],
@@ -322,7 +322,7 @@
 								"duration": 178,
 								"language": "en-us"
 							},
-							"thumbnail": "https://assets.goal.com/images/v3/blteffed3ec281cc517/sportv-logo-8.png?auto=webp&format=pjpg&width=3840&quality=60",
+							"thumbnail": "https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/sportv-br.png?raw=true",
 							"shortDescription": "QUALIDADE EM FULL HD",
 							"releaseDate": "2020-05-07",
 							"longDescription": "CANAL DE JOGOS DO FUTEBOL BRASILEIRO",
@@ -342,7 +342,7 @@
 			"title": "COMBATE 4K",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "Canais da tv SPORTV",
-			"thumbnail": "https://tvplus.com.br/images/epg/default/combate.jpg",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",
 			"genres": [
 				"educational"
 			],
@@ -369,7 +369,7 @@
 								"duration": 178,
 								"language": "en-us"
 							},
-							"thumbnail": "https://tvplus.com.br/images/epg/default/combate.jpg",
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",
 							"shortDescription": "QUALIDADE EM FULL HD",
 							"releaseDate": "2020-05-07",
 							"longDescription": "CANAL DE LUTAS",
