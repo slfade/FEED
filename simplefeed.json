@@ -1032,6 +1032,32 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:10Z"
 			}
+		},
+		{
+			"longDescription": "A cinebiografia de Francisco Cândido Xavier, o médium brasileiro que psicografou centenas de livros, abordando sua vida desde a infância humilde até se tornar uma figura religiosa e filantrópica influente no Brasil.",
+			"thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fp%2Fbeleza-oculta%2F8d6kgwx30g6x&psig=AOvVaw258Q-mzzAC3aECcQ5DZhBG&ust=1747604057364000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDgisq6q40DFQAAAAAdAAAAABA8",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "CHICO XAVIER",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/653483.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
 		}
 	]
 	
