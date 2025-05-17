@@ -21,6 +21,45 @@
 					"episodes": [
 						{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "SBT SP 4K" ,
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300479.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9da0e314-af55-4319-866d-0cf503f28981/diyabnz-60fd5f3b-77d7-4abb-84a0-88df16858337.jpg/v1/fill/w_1192,h_670,q_70,strp/sbt__2025_redesign_2__by_userair2025_diyabnz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvOWRhMGUzMTQtYWY1NS00MzE5LTg2NmQtMGNmNTAzZjI4OTgxXC9kaXlhYm56LTYwZmQ1ZjNiLTc3ZDctNGFiYi04NGEwLTg4ZGYxNjg1ODMzNy5qcGciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gc62gFdgpKyxWJJiSh6i_MHKO9blPBAVHpc3iuLLRYM",
+							"shortDescription": "Stream music on your Roku device",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Stream music on your Roku device",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
 							"title": "SBT SP" ,
 							"episodeNumber": 1,
 							"content": {
@@ -105,7 +144,7 @@
 			"id": "series_2_RSG",
 			"title": "GLOBO",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Canais da tv Sbt",
+			"shortDescription": "Canais da tv GLOBO",
 			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
 			"genres": [
 				"educational"
@@ -115,8 +154,35 @@
 			],
 			"seasons": [
 				{
-					"title": "Season 1",
+					"title": "CANAIS",
 					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "GLOBO SP 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300470.ts",
+										"quality": "HD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/96/Apoio_Globo_%282024%29.png/revision/latest?cb=20250503204100.jpeg",
+							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
 						{
 							"id": "rsg_unit1_intro",
 							"title": "GLOBO MINAS",
@@ -164,6 +230,148 @@
 							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
 							"releaseDate": "2020-05-07",
 							"longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+						
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "BAND",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv BAND",
+			"thumbnail": "https://pbs.twimg.com/media/Dl255rqWwAArIdk.jpg:large",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "BAND SP 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300459.ts",
+										"quality": "HD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://pbs.twimg.com/media/Dl255rqWwAArIdk.jpg:large",
+							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "SPORTV 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv SPORTV",
+			"thumbnail": "https://assets.goal.com/images/v3/blteffed3ec281cc517/sportv-logo-8.png?auto=webp&format=pjpg&width=3840&quality=60",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "SPORTV 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300480.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://assets.goal.com/images/v3/blteffed3ec281cc517/sportv-logo-8.png?auto=webp&format=pjpg&width=3840&quality=60",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS DO FUTEBOL BRASILEIRO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "COMBATE 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv SPORTV",
+			"thumbnail": "https://tvplus.com.br/images/epg/default/combate.jpg",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "COMBATE 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300462.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://tvplus.com.br/images/epg/default/combate.jpg",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS DO FUTEBOL BRASILEIRO",
 							"tags": [
 								"RSG"
 							],
