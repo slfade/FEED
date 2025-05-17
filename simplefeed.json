@@ -179,12 +179,12 @@
 	"SERIES": [
 		{
 			"id": "series_1_tips",
-			"title": "MOTHERLAND",
+			"title": "Motherland",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "The Last of Us se passa em um mundo pós-apocalíptico devastado por uma infecção fúngica que transforma humanos em criaturas violentas. A história acompanha Joel, um contrabandista endurecido, encarregado de escoltar Ellie, uma adolescente que pode ser a chave para a cura da humanidade, através de uma América do Norte perigosa e desolada. É uma jornada intensa de sobrevivência, companheirismo e escolhas morais difíceis.",
 			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/fb8736b07bcd4fcf221c125c6d097123f803569e8c77ba0db99942d78f9fd1e5.jpg",
 			"genres": [
-				"educational"
+				"FICÇÃO"
 			],
 			"tags": [
 				"tips"
@@ -360,12 +360,12 @@
 		},
 		{
 			"id": "series_2_RSG",
-			"title": "SceneGraph Developers: Build a Channel",
+			"title": "A Mulher do Viajante no Tempo",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-build-channel-series.jpg",
+			"shortDescription": "Uma história de amor atemporal sobre um homem com uma condição genética que o faz viajar involuntariamente no tempo e o impacto que isso tem em seu relacionamento com sua esposa.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/c1a4d1692708bea6a5842bddcc0fa45cd59c4c11faf6d704ce6f749416c6599a.jpg",
 			"genres": [
-				"educational"
+				"DRAMA, ROMANCE, FICÇÃO"
 			],
 			"tags": [
 				"RSG"
@@ -376,7 +376,7 @@
 					"episodes": [
 						{
 							"id": "rsg_unit1_intro",
-							"title": "Introduction to the course",
+							"title": "Episodio 1",
 							"episodeNumber": 1,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
