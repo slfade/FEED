@@ -383,15 +383,391 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "HBO 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv HBO",
+			"thumbnail": "https://www.pngplay.com/wp-content/uploads/7/Hbo-PNG-HD-Quality.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "HBO 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300472.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.pngplay.com/wp-content/uploads/7/Hbo-PNG-HD-Quality.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE FILMES",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "DISCOVERY CHANNEL 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv DISCOVERY CHANNEL",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "DISCOVERY CHANNEL 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300464.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "DISCOVERY CHANNEL 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv DISCOVERY CHANNEL",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "DISCOVERY CHANNEL 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300464.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "DISCOVERY HOME&HEALTH 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv HOME&HEALTH",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "DISCOVERY HOME&HEALTH 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300465.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "ESPN 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv ESPN",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "ESPN 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300468.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "TELECINE PIPOCA 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv TELECINE PIPOCA",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "TELECINE PIPOCA 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300482.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE FILMES",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "TNT 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv TNT",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/c/ca/TNT_logo_circle.svg/revision/latest/scale-to-width-down/250?cb=20100615162844",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "TNT 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300484.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/c/ca/TNT_logo_circle.svg/revision/latest/scale-to-width-down/250?cb=20100615162844",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE SERIES, FILMES E ETC",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "PREMIERE 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv TNT",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "PREMIERE 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300477.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
 		}
 	],
 	"SERIES": [
 		{
 			"id": "series_1_tips",
-			"title": "ORIGEM",
+			"title": "Motherland",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "The Last of Us se passa em um mundo pós-apocalíptico devastado por uma infecção fúngica que transforma humanos em criaturas violentas. A história acompanha Joel, um contrabandista endurecido, encarregado de escoltar Ellie, uma adolescente que pode ser a chave para a cura da humanidade, através de uma América do Norte perigosa e desolada. É uma jornada intensa de sobrevivência, companheirismo e escolhas morais difíceis.",
-			"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/fb8736b07bcd4fcf221c125c6d097123f803569e8c77ba0db99942d78f9fd1e5.jpg",
 			"genres": [
 				"FICÇÃO"
 			],
@@ -401,7 +777,7 @@
 			
 			"seasons": [
 				{
-					"title": "1° TEMPORADA",
+					"title": "Season 1",
 					"episodes": [
 						{
 							"id": "rsg_unit1_intro",
@@ -412,17 +788,17 @@
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x1.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+										"quality": "HD"
 									}
 								],
 								"duration": 178,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/video1-intro-course-v2.png",
 							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"longDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
 							"tags": [
 								"RSG"
 							],
@@ -431,25 +807,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 2",
-							"episodeNumber": 1,
+							"id": "rsg-unit2-developerSetup",
+							"title": "Development setup",
+							"episodeNumber": 2,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x2.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 431,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit2-developerSetup-v4.png",
+							"shortDescription": "Start developing for the Roku platform. This lesson explains the first steps.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"longDescription": "Start developing for the Roku platform. This lesson explains the first steps, which includes creating the required user and developer accounts and enabling your test Roku device for development. Once you're done, you can sideload Roku's Hello World channel and view its output in the debug console.",
 							"tags": [
 								"RSG"
 							],
@@ -458,25 +834,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 3",
-							"episodeNumber": 1,
+							"id": "video3-scenegraph-overview",
+							"title": "Core concepts",
+							"episodeNumber": 3,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x3.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-sgoverview-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 765,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit3-core-concepts.png",
+							"shortDescription": "Review key concepts for developing on the Roku platform.",
 							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"longDescription": "Review key concepts for developing on the Roku platform. This lesson explains the basic design principles and key concepts of Roku development, provide an overview of Roku's development platform, and review the contents and structure of Roku channels. You'll learn about: SceneGraph and BrightScript, the different types of components you can use to build your channel UI, and many other topics. When you are done with this lesson, you will be ready to start working on your first Roku channel!",
 							"tags": [
 								"RSG"
 							],
@@ -485,25 +861,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 4",
-							"episodeNumber": 1,
+							"id": "rsg-unit4-contentFeed",
+							"title": "Creating the content feed",
+							"episodeNumber": 4,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x4.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-contentFeed-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 280,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit4-content-feed.png",
+							"shortDescription": "Learn how the content feed is used to load and organize content in the channel.",
+							"releaseDate": "2020-07-18",
+							"longDescription": "Learn how the content feed is used to load and organize content in the channel. This lesson explains how the ContentNode maps metadata in your content feed to components in your channel UI, and it provides a few tips for creating your own feed.",
 							"tags": [
 								"RSG"
 							],
@@ -512,25 +888,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 5",
-							"episodeNumber": 1,
+							"id": "video5-grid-screen",
+							"title": "Creating a Grid Screen",
+							"episodeNumber": 5,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x5.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-v4.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 1899,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridScreen.png",
+							"shortDescription": "Build a grid screen that displays rows of content",
 							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"longDescription": "Build a grid screen that displays rows of content. This lesson describes how to create a basic channel that gets the videos from a content feed and displays them in a grid. It explains how to create SceneGraph components, set their attributes, and create their interfaces. It also teaches how to use BrightScript to parse the metadata in the content feed, add the metadata to content nodes, and then add the content nodes to your components.",
 							"tags": [
 								"RSG"
 							],
@@ -539,133 +915,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 6",
-							"episodeNumber": 1,
+							"id": "video6-video-player",
+							"title": "Adding the Video Player",
+							"episodeNumber": 6,
 							"content": {
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x6.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoplayer-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 819,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 7",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x7.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 8",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x8.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 9",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x9.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 10",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x10.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoPlayer-v2a.png",
+							"shortDescription": "Add a video player to launch content into playback",
+							"releaseDate": "2020-05-13",
+							"longDescription": "Add a video player to launch content into playback. This lesson teaches how to add the SceneGraph Video node to your channel and link it to the content in other components. It explains how to open the video screen when content is selected, and close it when playback finishes or the back button is pressed on the Roku remote control.",
 							"tags": [
 								"RSG"
 							],
@@ -673,32 +941,31 @@
 								"educational"
 							]
 						}
-						
 					]
 				},
 				{
-					"title": "2° TEMPORADA",
+					"title": "Season 2",
 					"episodes": [
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 1",
+							"id": "video7-debugger",
+							"title": "Debugging channels",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-05-16T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x1.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugger-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 381,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
+							"shortDescription": "Debug Roku channels using the debug console",
+							"releaseDate": "2020-05-13",
+							"longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
 							"tags": [
 								"RSG"
 							],
@@ -707,25 +974,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 2",
-							"episodeNumber": 1,
+							"id": "video8-detailsScreen",
+							"title": "Creating a Details Screen",
+							"episodeNumber": 2,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-05-22T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x2.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-details-screen-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 1251,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-detailsScreen.png",
+							"shortDescription": "Build a details screen that displays the release date, rating, genre, cast, and detailed description of the content selected from the grid screen",
+							"releaseDate": "2020-07-13",
+							"longDescription": "Build a details screen that provides more information about the content selected in the GridScreen, including the item's release date, rating, genre, cast, and detailed description. This lesson explains how to build a screen using more complex SceneGraph components. It describes how to create a Play button that launches the video player, populate the details screen with metadata that is already stored in other components, and switch the focus when the Details Screen is opened and closed.",
 							"tags": [
 								"RSG"
 							],
@@ -734,214 +1001,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 3",
-							"episodeNumber": 1,
+							"id": "video9-episodesScreen",
+							"title": "Creating an Episodes Screen",
+							"episodeNumber": 3,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-05-29T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x3.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodePicker-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 2188,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 4",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x4.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 5",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x5.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 6",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x6.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 7",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x7.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 8",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x8.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 9",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x9.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 10",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x10.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodesScreen.png",
+							"shortDescription": "Build an episodes screen that organizes television series into seasons and episodes.",
+							"releaseDate": "2020-05-29",
+							"longDescription": "Build an episodes screen that organizes television series into seasons and episodes. The left side of the screen displays the seasons; the right side of the screen lists the episodes in the selected season. This lesson explains how to use new components such as the MarkupList and further layer components to create more complex UIs. It shows how to parse the content feed to populate an episode screen with sequentially numbered seasons and the episodes that belong in those seasons.",
 							"tags": [
 								"RSG"
 							],
@@ -949,32 +1027,31 @@
 								"educational"
 							]
 						}
-						
 					]
 				},
 				{
-					"title": "3° TEMPORADA",
+					"title": "Season 3",
 					"episodes": [
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 1",
+							"id": "video10-videoAds",
+							"title": "Displaying Video Ads",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-06-20T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x1.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 1380,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png",
+							"shortDescription": "Monetize content on the Roku platform through video ads.",
+							"releaseDate": "2020-06-20",
+							"longDescription": "Monetize content on the Roku platform through video ads. This lesson explains how to implement the Roku Advertising Framework (RAF) in order to seamlessly insert video ads into content. It describes the different client and server-side ad insertion and stitching solutions provided by RAF, and how to get started with RAF in order to display video ads in your channel.",
 							"tags": [
 								"RSG"
 							],
@@ -983,25 +1060,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 2",
-							"episodeNumber": 1,
+							"id": "video11-subscriptions",
+							"title": "Offering Subscriptions",
+							"episodeNumber": 2,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-06-27T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x2.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-subscriptions-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 1561,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
+							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
+							"releaseDate": "2020-06-27",
+							"longDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay. This lesson explains how to get started with Roku Pay, including how to create a channel, in-channel products, and test users. It describes how the Roku Pay workflow from checking entitlements to completing purchases and granting access to content. It explains how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.",
 							"tags": [
 								"RSG"
 							],
@@ -1010,25 +1087,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 3",
-							"episodeNumber": 1,
+							"id": "video12-deep-linking-part1",
+							"title": "Deep Linking (part 1)",
+							"episodeNumber": 3,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-07-10T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x3.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part1.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 2481,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
+							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
+							"releaseDate": "2020-07-04",
+							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
 							"tags": [
 								"RSG"
 							],
@@ -1037,25 +1114,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 4",
-							"episodeNumber": 1,
+							"id": "video12-deep-linking-part2",
+							"title": "Deep Linking (part 2)",
+							"episodeNumber": 4,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-07-10T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x4.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part2.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 1567,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
+							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
+							"releaseDate": "2020-07-04",
+							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
 							"tags": [
 								"RSG"
 							],
@@ -1064,160 +1141,25 @@
 							]
 						},
 						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 5",
-							"episodeNumber": 1,
+							"id": "video13-certification-testing",
+							"title": "Certification Testing",
+							"episodeNumber": 5,
 							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
+								"dateAdded": "2020-07-16T02:32:24Z",
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x5.mp4",
-										"quality": "FHD"
+										"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-v3.mp4",
+										"quality": "HD"
 									}
 								],
-								"duration": 178,
+								"duration": 848,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 6",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x6.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 7",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x7.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 8",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x8.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 9",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x9.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
-							"tags": [
-								"RSG"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "rsg_unit1_intro",
-							"title": "Episodio 10",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "2020-05-07T02:32:24Z",
-								"videos": [
-									{
-										"videoType": "MP4",
-										"url": "http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x10.mp4",
-										"quality": "FHD"
-									}
-								],
-								"duration": 178,
-								"language": "en-us"
-							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
-							"shortDescription": "",
-							"releaseDate": "2020-05-07",
-							"longDescription": "",
+							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
+							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
+							"releaseDate": "2020-07-16",
+							"longDescription": "Prepare your channel to be published to the Roku channel store. This lesson explains how to test your channel's design and performance and verify that it meets all of Roku's certification criteria using Roku's test automation software and automated testing tools. It provides a quick demo of Roku's Static Analysis tool, which detects certification-related issues with your channel's code and must be passed in order for your channel to be published to the Roku channel store.",
 							"tags": [
 								"RSG"
 							],
@@ -1225,7 +1167,6 @@
 								"educational"
 							]
 						}
-						
 					]
 				}
 			]
