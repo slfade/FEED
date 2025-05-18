@@ -383,6 +383,382 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "HBO 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv HBO",
+			"thumbnail": "https://www.pngplay.com/wp-content/uploads/7/Hbo-PNG-HD-Quality.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "HBO 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300472.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.pngplay.com/wp-content/uploads/7/Hbo-PNG-HD-Quality.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE FILMES",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "DISCOVERY CHANNEL 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv DISCOVERY CHANNEL",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "DISCOVERY CHANNEL 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300464.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "DISCOVERY CHANNEL 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv DISCOVERY CHANNEL",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "DISCOVERY CHANNEL 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300464.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "DISCOVERY HOME&HEALTH 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv HOME&HEALTH",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "DISCOVERY HOME&HEALTH 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300465.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "ESPN 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv ESPN",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "ESPN 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300468.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "TELECINE PIPOCA 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv TELECINE PIPOCA",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "TELECINE PIPOCA 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300482.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE FILMES",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "TNT 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv TNT",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/c/ca/TNT_logo_circle.svg/revision/latest/scale-to-width-down/250?cb=20100615162844",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "TNT 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300484.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/c/ca/TNT_logo_circle.svg/revision/latest/scale-to-width-down/250?cb=20100615162844",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE SERIES, FILMES E ETC",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "PREMIERE 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv TNT",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "PREMIERE 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300477.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
 		}
 	],
 	"SERIES": [
