@@ -1393,8 +1393,8 @@
 			"id": "series_2_RSG",
 			"title": "PARAMOUNT 4K",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
-			"shortDescription": "Canais da tv ANIMAL PARAMAOUNT",
-			"thumbnail": "https://images.seeklogo.com/logo-png/43/2/paramount-logo-png_seeklogo-435000.png",
+			"shortDescription": "Canais da tv PARAMOUNT",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg",
 			"genres": [
 				"educational"
 			],
@@ -1421,7 +1421,7 @@
 								"duration": 178,
 								"language": "en-us"
 							},
-							"thumbnail": "https://images.seeklogo.com/logo-png/43/2/paramount-logo-png_seeklogo-435000.png",
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg",
 							"shortDescription": "QUALIDADE EM FULL HD",
 							"releaseDate": "2020-05-07",
 							"longDescription": "CANAL DE ENTRETENIMENTO E JOGOS",
