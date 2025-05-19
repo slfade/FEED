@@ -2569,6 +2569,32 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
+		},
+		{
+			"longDescription": "Um físico brilhante tenta ajeitar o passado, mas o tempo tem suas próprias regras. Segundas chances e consequências inesperadas em uma trama intrigante.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/e7289e66e2871fa32e68519bc0dc1994a683b2c744e5c52769e4142397ec8513.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
+			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
+			"title": "LOUCURA DO TEMPO",
+			"content": {
+				"duration": 576,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646957.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
 		}
 	],
 	"FILMES DE DRAMA": [
@@ -2648,6 +2674,164 @@
 				],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		}
+	],
+	"FILMES DE FANTASIA": [
+		{
+			"longDescription": "Newt Scamander chega a Nova York com criaturas mágicas que fogem, causando confusão e expondo o mundo bruxo. Aventura e segredos em uma Nova York mágica dos anos 20.",
+			"thumbnail": "https://musicart.xboxlive.com/7/1a815100-0000-0000-0000-000000000002/504/image.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Animais Fantásticos e Onde Habitam",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646746.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Newt Scamander é recrutado por Dumbledore para deter o crescente poder do bruxo das trevas Grindelwald, que escapou e busca seguidores para dominar os não-mágicos. Em uma trama de lealdades divididas e perigos crescentes, velhos e novos aliados se unem em Paris para enfrentar as ameaças de Grindelwald.",
+			"thumbnail": "https://musicart.xboxlive.com/7/9ee85000-0000-0000-0000-000000000002/504/image.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Animais Fantásticos Os Crimes de Grindelwald",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646744.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Dumbledore encarrega Newt de liderar uma missão arriscada para frustrar os planos de Grindelwald de dominar o mundo bruxo. Velhos e novos aliados unem forças, enfrentando desafios e revelações sobre o passado de Dumbledore em uma crescente guerra mágica.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/b58564a22a3a962e22afd92b74ab077cd7a063315b43b369ccd2a84eab2f9137.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Animais Fantásticos Os Segredos de Dumbledore",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646743.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Primeiro filme da saga",
+			"thumbnail": "https://image.tmdb.org/t/p/original/1kwYF2fTGlJeuiNIh60W6oLJVHy.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Harry Potter e a Pedra Filosofal",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646912.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Segundo filme da saga",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/86c2df4655613678a150efbf3e13ed4bdfbe17e5f0e006d3a75d09bdf8f7b29b._SX1080_FMjpg_.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Harry Potter e a Camara Secreta",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646912.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Terceiro filme da saga",
+			"thumbnail": "https://www.gcd.com.br/wp-content/uploads/2024/05/harry-potter-e-o-prisioneiro-de-azkaban.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Harry Potter e o Prisioneiro de Askaban",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646910.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		}
 	]
