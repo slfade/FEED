@@ -1394,7 +1394,7 @@
 			"title": "PARAMOUNT 4K",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "Canais da tv PARAMOUNT",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png",
 			"genres": [
 				"educational"
 			],
@@ -1421,10 +1421,118 @@
 								"duration": 178,
 								"language": "en-us"
 							},
-							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg",
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png",
 							"shortDescription": "QUALIDADE EM FULL HD",
 							"releaseDate": "2020-05-07",
 							"longDescription": "CANAL DE ENTRETENIMENTO E JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg_unit1_intro",
+							"title": "PARAMAOUNT PLUS ",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300934.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg_unit1_intro",
+							"title": "PARAMAOUNT PLUS ",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300938.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg_unit1_intro",
+							"title": "PARAMAOUNT PLUS ",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300939.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg_unit1_intro",
+							"title": "PARAMAOUNT PLUS ",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/300939.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Paramount_Global_Logo.svg/2560px-Paramount_Global_Logo.svg.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE JOGOS",
 							"tags": [
 								"RSG"
 							],
