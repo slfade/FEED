@@ -3,7 +3,6 @@
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"CANAIS": [
-         
 		{
 			"id": "series_1_tips",
 			"title": "SBT",
@@ -22,7 +21,85 @@
 					"episodes": [
 						{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "SBT SP 4K" ,
+							"title": "SBT SP 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/46.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png",
+							"shortDescription": "Stream music on your Roku device",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Stream music on your Roku device",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "SBT BAHIA FHD",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-03-06T20:25:52Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/273619.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 187,
+								"captions": [
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
+									},
+									{
+										"language": "en",
+										"captionType": "CLOSED_CAPTION",
+										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
+									}
+								],
+								"language": "en-us"
+							},
+							"thumbnail": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png",
+							"shortDescription": "Stream music on your Roku device",
+							"releaseDate": "2020-01-02",
+							"longDescription": "Stream music on your Roku device",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
+							"title": "SBT SP 4K",
 							"episodeNumber": 1,
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
@@ -61,7 +138,7 @@
 						},
 						{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "SBT SP" ,
+							"title": "SBT SP",
 							"episodeNumber": 1,
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
@@ -100,7 +177,7 @@
 						},
 						{
 							"id": "shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4",
-							"title": "SBT RJ" ,
+							"title": "SBT RJ",
 							"episodeNumber": 1,
 							"content": {
 								"dateAdded": "2020-03-06T20:25:52Z",
@@ -167,7 +244,7 @@
 									{
 										"videoType": "m3u8",
 										"url": "http://cdn11.cc:80/live/epg/epg/300470.ts",
-										"quality": "HD"
+										"quality": "FHD"
 									}
 								],
 								"duration": 178,
@@ -194,7 +271,7 @@
 									{
 										"videoType": "m3u8",
 										"url": "http://cdn11.cc:80/live/epg/epg/362.ts",
-										"quality": "HD"
+										"quality": "FHD"
 									}
 								],
 								"duration": 178,
@@ -221,7 +298,7 @@
 									{
 										"videoType": "m3u8",
 										"url": "http://cdn11.cc:80/live/epg/epg/352.ts",
-										"quality": "HD"
+										"quality": "FHD"
 									}
 								],
 								"duration": 178,
@@ -238,7 +315,6 @@
 								"educational"
 							]
 						}
-						
 					]
 				}
 			]
@@ -269,7 +345,7 @@
 									{
 										"videoType": "m3u8",
 										"url": "http://cdn11.cc:80/live/epg/epg/300459.ts",
-										"quality": "HD"
+										"quality": "FHD"
 									}
 								],
 								"duration": 178,
@@ -279,6 +355,53 @@
 							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
 							"releaseDate": "2020-05-07",
 							"longDescription": "CANAL DE ENTRETENIMENTO: NOVELAS, FILMES, AUDITORIO",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "RECORD",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv RECORD",
+			"thumbnail": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/ddzrzpm-5adf020a-526a-4e5e-9f0c-3b4f6f2864ec.png/v1/fill/w_1280,h_800/band_tv_logo_remake_by_ricardo3000_ddzrzpm-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNjgxMDljNGItMzA1ZS00YjkwLTg5OWYtNDE1YmRmNTdiNDc2XC9kZHpyenBtLTVhZGYwMjBhLTUyNmEtNGU1ZS05ZjBjLTNiNGY2ZjI4NjRlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ivz5v-JrldiLTS9zcs_p39RTOOJD29EL4mix8kdT7Hk",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "RECORD SP 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/45.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/ddzrzpm-5adf020a-526a-4e5e-9f0c-3b4f6f2864ec.png/v1/fill/w_1280,h_800/band_tv_logo_remake_by_ricardo3000_ddzrzpm-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNjgxMDljNGItMzA1ZS00YjkwLTg5OWYtNDE1YmRmNTdiNDc2XC9kZHpyenBtLTVhZGYwMjBhLTUyNmEtNGU1ZS05ZjBjLTNiNGY2ZjI4NjRlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ivz5v-JrldiLTS9zcs_p39RTOOJD29EL4mix8kdT7Hk",
+							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO: JORNAIS, FILMES, AUDITORIO",
 							"tags": [
 								"RSG"
 							],
@@ -765,7 +888,7 @@
 			"title": "ANIMAL PLANET 4K",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
 			"shortDescription": "Canais da tv ANIMAL PLANET",
-			"thumbnail": "https://vetores.org/wp-content/uploads/animal-planet.png",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",
 			"genres": [
 				"educational"
 			],
@@ -785,7 +908,7 @@
 								"videos": [
 									{
 										"videoType": "m3u8",
-										"url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.png",
+										"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",
 										"quality": "FHD"
 									}
 								],
@@ -821,7 +944,6 @@
 			"tags": [
 				"tips"
 			],
-			
 			"seasons": [
 				{
 					"title": "1° TEMPORADA",
@@ -1096,7 +1218,6 @@
 								"educational"
 							]
 						}
-						
 					]
 				},
 				{
@@ -1372,7 +1493,6 @@
 								"educational"
 							]
 						}
-						
 					]
 				},
 				{
@@ -1648,7 +1768,6 @@
 								"educational"
 							]
 						}
-						
 					]
 				}
 			]
@@ -1918,5 +2037,4 @@
 			}
 		}
 	]
-	
 }
