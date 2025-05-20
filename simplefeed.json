@@ -2385,6 +2385,53 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "series_1_tips",
+			"title": "BLACK MIRROR",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "é uma antologia sombria e provocativa que explora o lado perturbador da tecnologia e seu impacto na sociedade. Cada episódio apresenta histórias independentes e chocantes sobre futuros distópicos e dilemas éticos da era digital.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/edb994fb330a2a5bd2ce55acf1f43caa014bf8a1d2a671223ffdb5f462f317c7.png",
+			"genres": [
+				"FICÇÃO"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [
+				{
+					"title": "1° TEMPORADA",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "Episodio 1",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "MP4",
+										"url": "http://170.39.192.130:2095/series/56982658916tch/230225tch/131422.mkv",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
+							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
+							"releaseDate": "2020-05-07",
+							"longDescription": "",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
 		}
 	],
 	"FILMES DE FICÇÃO": [
@@ -2827,6 +2874,268 @@
 					{
 						"videoType": "MP4",
 						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/646910.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		}
+	],
+	"FILMES DE SUSPENSE": [
+		{
+			"longDescription": "Uma mãe solteira é sequestrada e mantida em cativeiro em um pequeno cômodo com sua filha. Anos depois, a menina cresceu sem conhecer o mundo exterior, e juntas planejam uma fuga arriscada para a liberdade. Um suspense intenso sobre sobrevivência, esperança e o poder do vínculo materno.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/0f4059e9c485126c7faa289b57e1be57dc38548c6ca22a734c79ff41437be0f3.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "O Cativeiro",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647633.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Uma psicóloga agorafóbica que espia seus vizinhos testemunha um crime chocante na casa em frente. Presa entre a realidade e suas próprias ansiedades, ela tenta desvendar a verdade por trás do que viu, questionando sua própria sanidade e expondo segredos obscuros. Um suspense psicológico claustrofóbico e cheio de reviravoltas.",
+			"thumbnail": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABS60oTzqWSWS7ujjpX5swkyiHtOwi-Svi5HDYUPtwZvyYC0jZt6B2iWAaBmP63RmRxG0Ltg9q1-SJJK2OJ-PoQ6Yp8z5Bs7kK8cB.jpg?r=317",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "A Mulher da Janela",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647460.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Uma psicóloga agorafóbica que espia seus vizinhos testemunha um crime chocante na casa em frente. Presa entre a realidade e suas próprias ansiedades, ela tenta desvendar a verdade por trás do que viu, questionando sua própria sanidade e expondo segredos obscuros. Um suspense psicológico claustrofóbico e cheio de reviravoltas.",
+			"thumbnail": "https://img-www.tf-cdn.com/movie/2/fall-2022.jpeg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "A Queda",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647333.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Uma mulher luta contra o luto pela morte da melhor amiga e começa a suspeitar que o marido dela está envolvido. Mergulhada em segredos e paranoia, ela tenta desvendar a verdade por trás do aparente acidente, questionando a confiança e expondo relações complexas. Um suspense psicológico envolvente sobre perda e desconfian",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/ddbeb0b873e07859d51f6655a08ea5b83cf7413c7ebef40f50ede134c4bd7eae.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "A Suspeita",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647375.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Após uma experiência de quase morte, cinco estudantes de medicina desenvolvem a capacidade de retornar brevemente da morte, trazendo consigo vislumbres do além e segredos sombrios. ",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/a3b5426315b6266bccca5421419c27448da1f9a72e3f6669e20875f04eb44c7f.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Alem da Morte",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647700.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Após um apagão misterioso, um homem acorda sem memória em um hospital isolado, cercado por outros amnésicos. Juntos, eles precisam desvendar a causa do apagão e recuperar suas identidades enquanto enfrentam perigos ocultos e a crescente sensação de que algo sinistro está acontecendo.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/6422445af2ca4573eb3d23cdb46e6497d24fa2c009845667f614c3662f85e4e6.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Blackout",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647359.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Em Gotham City, um comediante marginalizado e mentalmente instável é levado ao limite pela crueldade e indiferença da sociedade. Sua espiral descendente o transforma gradualmente em uma figura criminosa icônica e caótica, conhecida como Coring",
+			"thumbnail": "https://musicart.xboxlive.com/7/866b5100-0000-0000-0000-000000000002/504/image.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Coringa",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647359.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Em um futuro próximo, onde a tecnologia permite a divisão da consciência após a morte, um homem aceita passar pelo procedimento para poupar sua família",
+			"thumbnail": "https://i.ytimg.com/vi/RsRyeesfbEc/maxresdefault.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Destinos a Deriva",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647245.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Em uma ilha isolada, dois faroleiros com passados misteriosos precisam aprender a conviver enquanto protegem o farol de tempestades e da solidão. A chegada de um estranho náufrago traz segredos à tona e testa a sanidade dos homens, transformando a rotina isolada em um pesadelo de paranoia e violência. ",
+			"thumbnail": "https://aventurasnahistoria.com.br/media/uploads/2025/01/faroldailusao2.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "Farol da Ilusão",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/735986.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Após a morte repentina de seu marido, uma mulher herda sua casa isolada no campo. Buscando recomeçar, ela logo percebe que não está sozinha: uma presença sinistra espreita nos cantos da casa, revelando segredos obscuros e transformando seu refúgio em um pesadelo de terror psicológico. Um suspense sobrenatural sobre luto, segredos familiares e uma presença ameaçadora no lar. ",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/bbfeda0dde4eb4d63d27f8ce83685adfa33c8c7617ec62993914311d9418e183.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
+			"shortDescription": "Demonstrates the Roku Remote Debugger",
+			"title": "O Intruso",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/647667.mp4",
 						"quality": "FHD"
 					}
 				],
