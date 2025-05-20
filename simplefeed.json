@@ -3430,32 +3430,6 @@
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
-		},
-		{
-			"longDescription": "Um grupo de desajustados se encontra em situações bizarras e hilárias ao longo de uma noite de gala em Hollywood. Entre celebridades excêntricas, reviravoltas malucas e paródias de filmes famosos, eles tentam sobreviver ao caos e talvez até encontrar a fama. Uma comédia escrachada e cheia de referências à cultura pop.",
-			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/4bd246b91ff3fc550e39436df61da2baf551150a5055f8a207fa503e538ceedd.jpg",
-			"releaseDate": "2020-01-20",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"demo"
-			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "Deu a Louca em Hollywood",
-			"content": {
-				"duration": 713,
-				"videos": [
-					{
-						"videoType": "MP4",
-						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/651118.mp4",
-						"quality": "FHD"
-					}
-				],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
 		}
 	]
 }
