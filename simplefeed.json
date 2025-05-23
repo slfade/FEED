@@ -1483,6 +1483,80 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "series_2_RSG",
+			"title": "HISTORY 4K",
+			"releaseDate": "2020-03-15T02:01:00+02:00",
+			"shortDescription": "Canais da tv PARAMOUNT",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"RSG"
+			],
+			"seasons": [
+				{
+					"title": "Season 1",
+					"episodes": [
+						{
+							"id": "rsg_unit1_intro",
+							"title": "HISTORY 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/130171.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO E JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "rsg_unit1_intro",
+							"title": "HISTORY 4K",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2020-05-07T02:32:24Z",
+								"videos": [
+									{
+										"videoType": "m3u8",
+										"url": "http://cdn11.cc:80/live/epg/epg/130171.ts",
+										"quality": "FHD"
+									}
+								],
+								"duration": 178,
+								"language": "en-us"
+							},
+							"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",
+							"shortDescription": "QUALIDADE EM FULL HD",
+							"releaseDate": "2020-05-07",
+							"longDescription": "CANAL DE ENTRETENIMENTO E JOGOS",
+							"tags": [
+								"RSG"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
 		}
 	],
 	"SERIES": [
@@ -2655,7 +2729,137 @@
 				"videos": [
 					{
 						"videoType": "mp4",
-						"url": "http://hubby.run:80/movie/Pdsrv-vods/kb6zityGEg/653483.mp4",
+						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653483.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "espiritualidade",
+			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkwODQyNjg3NF5BMl5BanBnXkFtZTcwNzMxMzEyNQ@@._V1_.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "Nosso Lar",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/645914.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "Baseado em uma história real, dois exploradores dinamarqueses lutam pela sobrevivência no implacável e gelado território da Groenlândia, após serem abandonados durante uma perigosa expedição em 1909.",
+			"thumbnail": "https://i.ytimg.com/vi/4dmSq8cy9Qk/maxresdefault.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "Contra o Gelo",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/652916.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "Um príncipe egípcio é revelado como hebreu e, após um chamado divino, lidera seu povo em uma jornada épica para fora da escravidão. Ele desafia faraó, atravessa desertos e mares, e enfrenta milagres e provações para alcançar a liberdade. Uma aventura bíblica de fé, coragem e libertação.",
+			"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/0a0650c76e782376717f334377aca3e3b827bf42553b8634163ad0047b63ca3d.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "Exodo",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/654291.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "Presos em uma base de pesquisa isolada no Ártico, cientistas enfrentam a ameaça de um vírus mortal e a paranoia crescente entre si. Enquanto as temperaturas caem e os suprimentos diminuem, eles precisam lutar não só contra a doença, mas também contra o medo e a desconfiança que podem ser tão perigosos quanto o próprio vírus. Um thriller de sobrevivência claustrofóbico e gelado.",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXp0T4nrISs-lDL5wLNzJuudEvpUu9kI1o7w&s",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "Morte Abaixo do Zero",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/652466.mp4",
+						"quality": "FHD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:10Z"
+			}
+		},
+		{
+			"longDescription": "Um jovem aventureiro parte em uma expedição na selva boliviana com dois novos companheiros e um guia misterioso. O que começa como uma jornada emocionante se transforma em um pesadelo de sobrevivência quando o grupo se perde, a natureza implacável se volta contra eles e a linha entre a realidade e a ilusão se desfaz. Um intenso thriller de sobrevivência baseado em uma história real.",
+			"thumbnail": "https://ukjewishfilm.org/wp-content/uploads/2020/03/JUNGLE_AMAZON_1920x1080.jpg",
+			"releaseDate": "2020-01-20",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"demo"
+			],
+			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+			"shortDescription": "Demonstrates the Roku automated channel testing software.",
+			"title": "Na Selva",
+			"content": {
+				"duration": 713,
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://sinalprivado.info:80/movie/632035/GqGcFV4ntu/653810.mp4",
 						"quality": "FHD"
 					}
 				],
