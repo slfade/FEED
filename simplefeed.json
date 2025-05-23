@@ -2350,7 +2350,7 @@
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [
 									{
-										"videoType": "MP4",
+										"videoType": "mp4",
 										"url": "http://127.0.0.1:11470/382b0aeb43a770840f6830993bb04e5d6f8bf912/2.mp4",
 										"quality": "FHD"
 									}
