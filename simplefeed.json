@@ -87,18 +87,6 @@
 									}
 								],
 								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
 								"language": "en-us"
 							},
 							"thumbnail": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png",
@@ -126,18 +114,6 @@
 									}
 								],
 								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
 								"language": "en-us"
 							},
 							"thumbnail": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png",
@@ -165,18 +141,6 @@
 									}
 								],
 								"duration": 187,
-								"captions": [
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.srt"
-									},
-									{
-										"language": "en",
-										"captionType": "CLOSED_CAPTION",
-										"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-2f0155ecdcc96789596c0fc77f06b45ca0df15a4_3/captions/HowToListenToMusic_cc_eng.vtt"
-									}
-								],
 								"language": "en-us"
 							},
 							"thumbnail": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/sbt-br.png",
@@ -2387,14 +2351,14 @@
 								"videos": [
 									{
 										"videoType": "MP4",
-										"url": "http://170.39.192.130:2095/series/56982658916tch/230225tch/131422.mkv",
+										"url": "http://127.0.0.1:11470/382b0aeb43a770840f6830993bb04e5d6f8bf912/2",
 										"quality": "FHD"
 									}
 								],
 								"duration": 178,
 								"language": "en-us"
 							},
-							"thumbnail": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F401003%2Fbackgrounds%2F66f00df6c769c.jpg&w=3840&q=75",
+							"thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/edb994fb330a2a5bd2ce55acf1f43caa014bf8a1d2a671223ffdb5f462f317c7.png",
 							"shortDescription": "Watch the introduction to the \"SceneGraph: Build a Channel\" development course. This video outlines the course syllabus.",
 							"releaseDate": "2020-05-07",
 							"longDescription": "",
